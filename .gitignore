@@ -1,0 +1,14 @@
+# ----------------------------
+# Generated / build artifacts
+# ----------------------------
+
+# Codex generated skills
+adapters/codex/dist/
+
+# Optional: OS / editor noise
+.DS_Store
+Thumbs.db
+
+# Python cache (if you keep build.py)
+__pycache__/
+*.pyc
